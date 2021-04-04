@@ -93,22 +93,5 @@ class Rsa:
  
 if __name__ == "__main__":
     rsa = Rsa()
-   #rsa.encrypt("kk")
- #x = int(input())
-  #     c = 2
- #
-  ##         if x % c == 0:
-       #         print('no')
-      #          break
-     #       c += 1
- 
-      #  if c == n:
-       #    print('yes')
-           
-   # def fun(self,N1,e):
-    #    maxVal = max(N1,e)
-     #   minVal = min(N1,e)
-      #  if maxVal%minVal == 0:
-       #     return minVal
-       # else:
-        #    return fun(minVal,maxVal % minVal)
+   
+
